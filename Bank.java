@@ -1,6 +1,6 @@
 // Hierarchical Inheritance
 
-class Bank
+class Hierarchical_Inheritance
 {
 	long accountNumber, aadhaarNumber;
 	int photos;
